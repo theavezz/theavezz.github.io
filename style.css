@@ -1,118 +1,31 @@
-#idly2b {
-  text-align: center;
-  color: rgb(255, 255, 255);
-  position: static;
-  font-family: Courier New, Courier, monospace;
-  padding-top: 50px;
-  padding-bottom: 0px;
-  padding-right: 0px;
-  padding-left: 0px;
-}
-
-#iz83ku {
-  text-align: center;
-  color: rgb(255, 255, 255);
-}
-
-#ixxotz {
-  text-align: center;
-}
-
-#ii9f7m {
-  text-align: center;
-}
-
-#i8r811 {
-  text-align: center;
-}
-
-#il9daj {
-  text-align: center;
-}
-
-#i5lvhd {
-  text-align: center;
-}
-
-#ix72ki {
-  text-align: center;
-}
-
-#iq688e {
-  text-align: center;
-}
-
-#i2naqu {
-  text-align: center;
-}
-
-#ivbmz5 {
-  text-align: center;
-  display: block;
-  color: rgb(255, 255, 255);
-}
-
-#i519qs {
-  text-align: center;
-}
-
-#ijbd6g {
-  text-align: center;
-}
-
-#i4d5 {
-  background-color: rgb(0, 0, 0);
-  padding-top: 0.016px;
-  padding-right: 0px;
-  padding-bottom: 0px;
-  padding-left: 0px;
-}
-
-#ikwggg {
-  color: rgb(0, 255, 0);
-}
-
-#i3f2tt {
-  color: rgb(0, 255, 0);
-}
-
-#itx5i3 {
-  color: rgb(0, 255, 0);
-}
-
-#im2peh {
-  color: rgb(0, 255, 0);
-}
-
-#i3bwmo {
-  color: rgb(0, 255, 0);
-}
-
-#i6hqg3 {
-  color: rgb(0, 255, 0);
-}
-
-#i8vuxi {
-  color: rgb(0, 255, 0);
-}
-
-#id3ua1 {
-  color: rgb(0, 255, 0);
-}
-
-#ivbqpi {
-  color: rgb(0, 255, 0);
-}
-
-#itsili {
-  color: rgb(0, 255, 0);
-}
-
 html {
-  min-height: 100%;
-  background-color: rgb(0, 0, 0);
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center
+}
+
+:root {
+    color-scheme: dark;
 }
 
 body {
-  min-height: 100vh;
+    margin-top: 69px;
+}
+
+h1, h2 {
+    color: white;
+}
+
+a {
+    color: lime;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
 }
